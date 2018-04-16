@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "drama promo",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -152,7 +152,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "DRAMA",
+          "title": "DRAMA<br><span style=\"font-weight: normal;\">Blessha, Cherish, Fionna, Kayla</span>",
           "text": "This weekly course is filled with excitement derived from the students themselves. Express your creativity with no limits, showcase your true colors, and turn you wildest imaginations into a thrilling reality.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT CONCEPTS</a>",
           "_tags": [
@@ -163,6 +163,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           }
         },
@@ -306,7 +309,7 @@
             {
               "authorName": "Audrey Gunawan, 10A",
               "authorBio": "User",
-              "text": "<p>“I have been a drama eversince I had the option to choose electives. Though the teachers change from time to time, I still enjoy my time in class. I get to express my emotions with no judgement and is able to show my talent on stage”</p>",
+              "text": "<p>“I have been a drama student ever since I had the option to choose electives. Though the teachers change from time to time, I still enjoy my time in class. I get to express my emotions with no judgement and am able to show my talent on stage”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -334,7 +337,7 @@
             {
               "authorName": "Cherish Aurely, 10B",
               "authorBio": "User",
-              "text": "<p>“Before joining drama class I was a very shy student and I can't believe I'm able to perform infront of hundreds of people now! I didn't realize how important lighting, music and all the technical aspects of a performance were important before joining this class.”</p>",
+              "text": "<p>“Before joining drama class I was a very shy student and I can't believe I'm able to perform in front of hundreds of people now! I didn't realize how important lighting, music, and all the technical aspects of a performance were before joining this class.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -985,7 +988,7 @@
             "showBullets": true,
             "fullWidth": false,
             "spacing": 0,
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "#4d1a19",
