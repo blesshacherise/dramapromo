@@ -152,7 +152,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "DRAMA<br><span style=\"font-weight: normal;\">Blessha, Cherish, Fionna, Kayla</span>",
+          "title": "DRAMA<br><span style=\"font-weight: normal;\">Blessha(10B), Cherish(10B), Fionna(10D), Kayla(10D)</span>",
           "text": "This weekly course is filled with excitement derived from the students themselves. Express your creativity with no limits, showcase your true colors, and turn you wildest imaginations into a thrilling reality.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT THE COURSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT CONCEPTS</a>",
           "_tags": [
@@ -484,13 +484,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Unknown error"
+              "address": "soringfield international school pb3\n",
+              "placeId": "ChIJQQ_Zy5f3aS4RY_9ETp7VRW4",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Taman Permata Buana, Jl. Pulau Tidung, RT.7/RW.3, Kembangan Utara, Jakarta Barat, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: (021) 5835-2448<br><br>",
+          "text1": "<strong>Address</strong><br>Taman Permata Buana, Jl. Pulau Tidung, RT.7/RW.3, Kembangan Utara, Jakarta Barat, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610<br><br>\n<strong>Contacts</strong><br>\nEmail: pr@springfield.sch.id<br>\nPhone: (021) 5835-2448<br><br>",
           "text2": "<div><font color=\"#c0a375\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px;\"><b></b></span></font></div>",
           "_tags": [
             "Theme"
