@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "drama promo",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -284,17 +284,19 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": 4,
+            "paddingBottom": "0",
             "bgColor": "#0a1021"
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/image1.jpg",
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://youtu.be/7KakytKpsuw",
+              "autoplay": false,
+              "loop": false,
+              "active": true
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -303,6 +305,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#0a1021"
+          },
+          "text": "<p>This month's drama project requires students to perform their favourite musical. Students are told to pick one scene or song from a musical and they have to perform it by the end of the month. This video shows one of the many performances by Springfield's talented drama students. In this video, Gladys(10A), Faricha(10A) and Jasmine(10) are role=playing the song \"Popular\" from Wicked.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "testimonials2",
