@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "drama promo",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2251,6 +2251,24 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SPRINGFIELD</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#0a1021"
+          },
+          "text": "<p>Think about any play you’ve ever attended. You’re probably recalling the actor’s performances, story, the direction, the moral and the plot.  But enhancing all of these elements of any and every play is lighting. </p><p><br></p><p> Lighting is one of the most important, yet at the same time underappreciated.</p><p><br></p><p>  It is more than just being able to see the play and the actors. Lighting is critical in conveying the proper atmosphere.  It is essential in setting the time and place, mood and focus of the play.  Lighting pulls all the elements of a play together and helps the director convey his/her message.  The director works intimately with the lighting people to help it enhance and embrace the story.<div><br></div><div>Today, as in all aspects of life, technology plays a huge role in making it easier for directors and lighting designers to enhance the set (and various actors, scenes, etc.)  This is why tools such as wireless dimmers have become so common place in both major and minor productions.</div><div><br></div><div>  What is wireless DMX (DMX512)? </div><div> Wireless DMX is a system used to transmit light data without using traditional wireline DMX cables.  It is used in many venues because it is more convenient, practical and versatile that any system that preceded it.  Thus, it is used in theme parks, concerts and other events as well.  Its features make it particularly useful when lighting theatre productions.  A play depends on the elements of lighting to create or enhance a mood in a way that book cannot.  Our wireless DMX systems are designed to send data across Wi-Fi radio links to control when lights are turned on and off.  Thus wireless DMX systems can even help create the illusion of light being animated.  In other words, they give professionals who control the lighting at concerts, plays and other large scale productions a freedom in setting a scene that they would otherwise not possess.</div><div><br></div><div>At Ratpac Dimmers, we manufacture our own state of the art dimmers for use by a variety of industries.  We design equipment that is compact, durable and affordable.  We even rent equipment where budget is a major concern for businesses.  So, the next time you see a play think about the lighting that changed from scene to scene.  The next time you attend a concert think about how the light was nearly a performer in and of itself.  Think about those things and our more than 20 years of experience the next time you need lighting equipment.</div></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
