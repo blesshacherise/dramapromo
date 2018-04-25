@@ -429,7 +429,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-25-at-7.51.32-am-1400x694.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -444,13 +447,18 @@
             }
           },
           "title": "DRAMA GAME",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PLAY</a>",
+          "text": "Grab as many roses as possible and avoid the tomatoes, break a leg!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.touchdevelop.com/dcfibx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLAY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-1n"
+          "_anchor": "header2-1n",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375"
+            }
+          }
         },
         {
           "_params": {
